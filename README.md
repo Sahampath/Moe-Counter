@@ -1,10 +1,9 @@
 # *Moe Counter!*
 
-多种风格可选的萌萌计数器
-
 <p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@Moe-counter.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  <h2 align="center">Visitors Counts 👀</h2>
+  <a href="https://github.com/Sahampath/Moe-Counter"><img alt="Cute Count" 
+   src="https://count.getloli.com/get/@Sahampath?theme=rule34" />
   </a>
 </p>
 
