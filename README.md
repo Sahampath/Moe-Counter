@@ -1,7 +1,6 @@
 # *Moe Counter!*
 
 <p align="center">
-  <h2 align="center">Visitors Counts 👀</h2>
   <a href="https://github.com/Sahampath/Moe-Counter"><img alt="Cute Count" 
    src="https://count.getloli.com/get/@Sahampath?theme=rule34" />
   </a>
